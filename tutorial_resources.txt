@@ -1,0 +1,5 @@
+networkDynamic: Convert various forms of network timing information into networkDynamic objects.
+https://www.rdocumentation.org/packages/networkDynamic/versions/0.11.5/topics/networkDynamic
+
+Package examples for networkDynamic: Dynamic Extensions for Network Objects
+https://cran.r-project.org/web/packages/networkDynamic/vignettes/networkDynamic.pdf
